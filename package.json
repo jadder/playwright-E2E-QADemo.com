@@ -1,0 +1,23 @@
+{
+  "name": "playwright-e2e-qademo.com",
+  "version": "1.0.0",
+  "description": "End-to-end automation testing project using Playwright with TypeScript. Includes UI testing, report generation, and multi-browser execution for QADemo.com.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadder/playwright-E2E-QADemo.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jadder/playwright-E2E-QADemo.com/issues"
+  },
+  "homepage": "https://github.com/jadder/playwright-E2E-QADemo.com#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.15"
+  }
+}
